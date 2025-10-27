@@ -1,7 +1,3 @@
-Here’s the refined **`README.md`** that matches your **final code** — consistent class name, function names, and exact program behavior 👇
-
----
-
 # 🎯 Project: Anime Info Generator (Python)
 
 ## 🧩 Objective
